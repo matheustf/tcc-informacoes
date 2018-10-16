@@ -34,7 +34,7 @@ public class Pedido implements Serializable{
 	
 	private String codigoDoPedido;
 	
-	private String nomeDoComprador;
+	private String nomeDoCliente;
 	
 	private StatusDoPedido statusDoPedido;
 	
